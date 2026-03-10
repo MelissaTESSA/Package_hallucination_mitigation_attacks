@@ -1,0 +1,83 @@
+data:
+  instruction_dir: data/instruction
+  languages: ["Python", "JavaScript", "Rust", "Ruby"]
+  batch_size: 8
+
+model:
+  name: deepseek-ai/deepseek-coder-1.3b-instruct
+  short_name: deepseek_coder_1_3_b
+  torch_dtype: bfloat16        # one of: float16, bfloat16, or null
+  device_map: auto             # e.g. "auto", "cuda:0", or null
+
+output:
+  root_dir: output
+
+strategies:
+  baseline:
+    enabled: true
+    subdir: baseline
+    max_new_tokens: 128
+    temperature: 0.7
+    quantization:
+      load_in_4bit: true
+      bnb_4bit_compute_dtype: bfloat16
+      bnb_4bit_use_double_quant: true
+      bnb_4bit_quant_type: nf4
+    generation_kwargs:
+      do_sample: false
+      top_p: 0.9
+      top_k: 0
+      num_beams: 1
+
+  greedy:
+    enabled: true
+    subdir: greedy
+    max_new_tokens: 128
+    quantization:
+      load_in_4bit: true
+      bnb_4bit_compute_dtype: bfloat16
+      bnb_4bit_use_double_quant: true
+      bnb_4bit_quant_type: nf4
+
+  self_refine:
+    enabled: true
+    subdir: self_refine
+    max_new_tokens: 128
+    max_rounds: 3
+
+  dola:
+    enabled: false
+    subdir: dola
+    max_new_tokens: 128
+    dola_mature_layer: 32            # override per model if needed
+    dola_relative_top: 0.1
+    dola_repetition_penalty: 1.2
+    quantization:
+      load_in_4bit: true
+      bnb_4bit_compute_dtype: bfloat16
+      bnb_4bit_use_double_quant: true
+      bnb_4bit_quant_type: nf4
+
+  rag:
+    enabled: false
+    subdir: rag
+    k: 5                             # number of retrieved statements
+
+  nudging:
+    enabled: false
+    subdir: nudging
+    max_new_tokens: 128
+    top_prob_thres: 0.4
+    # If unset, defaults to model.name
+    nudging_model_name: null
+
+  contrastive_decoding:
+    enabled: false
+    subdir: contrastive_decoding
+    max_new_tokens: 128
+    alpha: 0.1
+    repetition_penalty: 1.0
+    # If unset, defaults to model.name
+    expert_model_name: null
+    amateur_model_name: null
+
