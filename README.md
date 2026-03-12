@@ -63,8 +63,7 @@ python run_mitigation_infer_json.py \
   --config config.yml \
   --strategy baseline \
   --input path/to/input.json \
-  --output path/to/output.json \
-  --language Python
+  --output path/to/output.json
 ```
 
 The output file mirrors the input list and adds an `answer` field for each item.
