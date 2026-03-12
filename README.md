@@ -1,109 +1,84 @@
-# Compare: Package Hallucination Benchmarks (HuggingFace backend)
+## Package Hallucination Mitigation Analysis
 
-This directory contains a HuggingFace-based reimplementation of the package
-hallucination benchmarks and mitigation strategies.
+This directory contains a small, self‑contained framework to **measure and mitigate package hallucination** in code models.  
+It focuses on prompts like “Which Python packages do X?” and compares different decoding / mitigation strategies on curated instruction data.
 
-The core pieces are:
+### Structure
 
-- `data/` – instruction datasets and package lists
-  - `data/instruction/packages_<Language>_instruct.json` – prompts per package
-  - `data/package_list/*.txt` – ground-truth package name lists
-  - `data/rag/*` – RAG corpus (`RAG_data.jsonl`, `pypi_descriptions.jsonl`)
-- `mitigation/` – decoding and mitigation strategies implemented on top of
-  HuggingFace models:
-  - `baseline.py` – temperature / top-p sampling
-  - `greedy.py` – greedy decoding (argmax)
-  - `dola.py` – DoLa (Decoding by Contrasting Layers)
-  - `nudging.py` – inference-time nudging with base + nudging models
-  - `rag.py` – retrieval-augmented generation wrapper
-  - `self_refine.py` – iterative self-refinement with package validation
-  - `contrastive_decoding.py` – expert vs amateur contrastive decoding
-  - `interface.py` – common `Generator` / `ChatMessage` abstractions
-- `output/` – generated answers and metrics for each model/strategy
-- `evaluation/` – evaluation helpers (e.g. `phr.py` for Package Hallucination Rate)
-- `test/` – notebooks for quick experiments, e.g.
-  `test/generation_strategies.ipynb`.
+- **`config.yml`**: Central configuration (model name, languages, batch size, and enabled strategies).
+- **`data/instruction/`**: Instruction JSON files, e.g. `packages_Python_instruct.json`.
+- **`data/package_list/`**: Canonical package name lists per ecosystem (PyPI, npm, Cargo, RubyGems).
+- **`data/rag/`**: RAG corpus used by the RAG mitigation strategy.
+- **`mitigation/`**: Implementations of the different generators (baseline, greedy, self‑refine, DoLa, RAG, nudging, contrastive decoding). All share a common interface in `mitigation/interface.py`.
+- **`output/`**: Generated answers and metrics, organised as `output/<model_short_name>/<strategy>/...`.
+- **`run_mitigation_eval.py`**: Runs strategies over the full instruction datasets and writes result files under `output/`.
+- **`run_mitigation_infer_json.py`**: Runs a chosen mitigation strategy on an arbitrary JSON list of prompts and only returns model outputs.
 
-## Environment and dependencies
-
-Install the Python dependencies for the module:
+### Installation
 
 ```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-You will need a working CUDA setup if you want to run larger models or use
-`device_map: auto` in the config.
+You will need a GPU (or enough CPU RAM) to load the configured Hugging Face model (default: `deepseek-ai/deepseek-coder-1.3b-instruct`).  
+Adjust `model.name`, `model.torch_dtype`, and `model.device_map` in `config.yml` as needed for your hardware.
 
-## Configuration (`config.yml`)
+### Running full evaluation
 
-Global configuration is centralised in `config.yml`:
-
-- `data.instruction_dir` – directory containing the
-  `packages_<Language>_instruct.json` files.
-- `data.languages` – list of language suffixes to process
-  (e.g. `["Python", "JavaScript", "Rust", "Ruby"]`).
-- `data.batch_size` – default batch size for batched generation (per forward pass).
-- `model.name` – HuggingFace model id to evaluate.
-- `model.short_name` – short identifier for the output subdirectory name.
-- `model.torch_dtype` / `model.device_map` – optional HF loading hints.
-- `output.root_dir` – root directory for evaluation outputs (default: `output/`).
-- `strategies.*` – per-strategy configuration:
-  - `enabled` – whether to run this strategy.
-  - `subdir` – subdirectory under `output/<short_name>/`.
-  - decoding / mitigation-specific parameters
-    (e.g. `max_new_tokens`, `temperature`, `max_rounds`, `k`, `top_prob_thres`).
-  - optional per-strategy `batch_size` to override the global one.
-
-## Running evaluations
-
-Use `run_mitigation_eval.py` to generate answers for all enabled strategies and
-languages defined in `config.yml`:
+Evaluation is driven by `run_mitigation_eval.py` and the instruction files under `data/instruction/`.
 
 ```bash
-python run_mitigation_eval.py
+python run_mitigation_eval.py \
+  --config config.yml \
+  --languages Python JavaScript Rust Ruby
 ```
 
-You can override the config path and languages at the CLI:
+This will, for every enabled strategy in `config.yml`, generate files such as:
+
+- `output/<model_short_name>/baseline/packages_Python_instruct_vllm.json`
+- `output/<model_short_name>/greedy/packages_JavaScript_instruct_vllm.json`
+- `output/<model_short_name>/self_refine/packages_Rust_instruct_vllm_sr.json`
+
+Each record contains the input instruction plus the model’s answer and timing / configuration metadata that you can use for downstream analysis (e.g., hallucination rates).
+
+### Running inference on custom JSON
+
+If you only want to run a mitigation strategy on your own prompts without computing metrics, use `run_mitigation_infer_json.py`.
+
+1. **Prepare input JSON** – a list of objects with `system` (optional) and `instruction` fields:
+
+```json
+[
+  {"system": "You are a coding assistant.", "instruction": "What Python packages can help with web scraping?"},
+  {"system": "You are a data science assistant.", "instruction": "Which R packages are most used for time series forecasting?"}
+]
+```
+
+2. **Run the script**:
 
 ```bash
-python run_mitigation_eval.py --config custom_config.yml --languages Python JavaScript
+python run_mitigation_infer_json.py \
+  --config config.yml \
+  --strategy baseline \
+  --input path/to/input.json \
+  --output path/to/output.json \
+  --language Python
 ```
 
-For each strategy `S` and language `L`, outputs are written to:
+The output file mirrors the input list and adds an `answer` field for each item.
 
-- `output/<short_name>/baseline/packages_<L>_instruct_vllm.json`
-- `output/<short_name>/greedy/packages_<L>_instruct_vllm.json`
-- `output/<short_name>/self_refine/packages_<L>_instruct_vllm_sr.json`
-- `output/<short_name>/dola/packages_<L>_instruct_vllm.json`
-- `output/<short_name>/rag/packages_<L>_instruct_vllm.json`
-- `output/<short_name>/nudging/packages_<L>_instruct_vllm.json`
-- `output/<short_name>/contrastive_decoding/packages_<L>_instruct_vllm.json`
+Key arguments:
 
-The exact set depends on which strategies are marked `enabled: true`.
+- **`--strategy`**: One of `baseline`, `greedy`, `self_refine`, `dola`, `rag`, `nudging`, `contrastive_decoding` (must also be enabled in `config.yml`).
+- **`--language`**: Logical language label (e.g. `Python`, `JavaScript`) used by some strategies (RAG, self‑refine).
+- **`--batch-size`**: Optional override of the batch size used during generation.
 
-## Measuring hallucinations
+### Customising and extending
 
-The `evaluation/phr.py` module provides a simple Package Hallucination Rate
-(PHR) calculation given:
+- **Change the base model**: Edit `model.name` and `model.short_name` in `config.yml`. Make sure the model is compatible with the specified quantization / dtype settings.
+- **Enable / disable strategies**: Toggle `enabled: true/false` under `strategies` in `config.yml` or adjust per‑strategy parameters (e.g. `max_new_tokens`, `temperature`).
+- **Add new instruction data**: Drop new `packages_<Language>_instruct.json` files under `data/instruction/` and include the language in `data.languages` (or pass via `--languages`).
 
-- a language (`\"Python\"`, `\"JavaScript\"`, …),
-- a list of predicted package names,
-- and the corresponding ground-truth package list file under `data/package_list/`.
-
-You can import `calculate_phr` in a notebook or script and pass it the model
-outputs for coarse-grained hallucination statistics.
-
-## Quick manual testing
-
-For an interactive overview of the generation strategies, open:
-
-- `test/generation_strategies.ipynb`
-
-This notebook:
-
-- Instantiates the different generators (`baseline`, `greedy`, `dola`,
-  `nudging`, `rag`, `self_refine`, `contrastive_decoding`).
-- Runs them on a shared test instruction.
-- Explains their configuration and qualitative behaviour side by side.
-
+This module is designed to be self‑contained so you can plug in new models or strategies and systematically study their behaviour on package hallucination.

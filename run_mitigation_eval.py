@@ -39,6 +39,9 @@ DEFAULT_CONFIG_PATH = BASE_DIR / "config.yml"
 
 @dataclass
 class StrategyConfig:
+    """
+        Configuration for a generation strategy.
+    """
     name: str
     enabled: bool
     subdir: str
@@ -46,11 +49,31 @@ class StrategyConfig:
 
 
 def load_config(path: Path) -> Dict[str, Any]:
+    """
+        Load the configuration from the given path. 
+        By default, it loads the configuration from the config.yml file.
+        The configuration is loaded as a dictionary.
+
+        Args:
+            path: The path to the configuration file.
+
+        Returns:
+            The configuration as a dictionary.
+    """
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
 
 
 def build_strategies(cfg: Dict[str, Any]) -> List[StrategyConfig]:
+    """
+        Build the strategies from the configuration.
+
+        Args:
+            cfg: The configuration as a dictionary.
+
+        Returns:
+            The strategies as a list of StrategyConfig objects.
+    """
     out: List[StrategyConfig] = []
     strategies_cfg = cfg.get("strategies", {})
     for name, scfg in strategies_cfg.items():
