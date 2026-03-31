@@ -1,83 +1,114 @@
-## Package Hallucination Mitigation Analysis
+# Package Hallucination — Adversarial Attack Evaluation
 
-This directory contains a small, self‑contained framework to **measure and mitigate package hallucination** in code models.  
-It focuses on prompts like “Which Python packages do X?” and compares different decoding / mitigation strategies on curated instruction data.
+This repository evaluates how different decoding and mitigation strategies behave under **adversarial prompts** designed to induce package hallucination in code-oriented LLMs.
 
-### Structure
+## Structure
 
-- **`config.yml`**: Central configuration (model name, languages, batch size, and enabled strategies).
-- **`data/instruction/`**: Instruction JSON files, e.g. `packages_Python_instruct.json`.
-- **`data/package_list/`**: Canonical package name lists per ecosystem (PyPI, npm, Cargo, RubyGems).
-- **`data/rag/`**: RAG corpus used by the RAG mitigation strategy.
-- **`mitigation/`**: Implementations of the different generators (baseline, greedy, self‑refine, DoLa, RAG, nudging, contrastive decoding). All share a common interface in `mitigation/interface.py`.
-- **`output/`**: Generated answers and metrics, organised as `output/<model_short_name>/<strategy>/...`.
-- **`run_mitigation_eval.py`**: Runs strategies over the full instruction datasets and writes result files under `output/`.
-- **`run_mitigation_infer_json.py`**: Runs a chosen mitigation strategy on an arbitrary JSON list of prompts and only returns model outputs.
+```
+data/
+  adversarial/          # Input: adversarial prompts (Python, JavaScript, Rust, Ruby)
+  package_list/         # Canonical package registries (PyPI, npm, Cargo, RubyGems)
+  rag/                  # RAG corpus and Chroma vector store (used by the RAG strategy)
+mitigation/             # 7 generation strategies (baseline, greedy, self_refine, dola,
+                        #   rag, nudging, contrastive_decoding)
+evaluation/
+  phr.py                # Package Hallucination Rate (PHR) metric
+run_mitigation_infer_json.py   # Generation: runs one strategy on a JSON prompt file
+run_adversarial.sh             # Runs all strategies × all models × all languages
+run_adversarial_phr.py         # Evaluation: computes PHR over output/adversarial/
+config.yml                     # Model and strategy configuration
+requirements.txt
+```
 
-### Installation
+## Setup
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-You will need a GPU (or enough CPU RAM) to load the configured Hugging Face model (default: `deepseek-ai/deepseek-coder-1.3b-instruct`).  
-Adjust `model.name`, `model.torch_dtype`, and `model.device_map` in `config.yml` as needed for your hardware.
+You need a GPU to load the HuggingFace models. Adjust `model.name`, `model.torch_dtype`, and `model.device_map` in `config.yml` for your hardware.
 
-### Running full evaluation
+## Reproducing the results
 
-Evaluation is driven by `run_mitigation_eval.py` and the instruction files under `data/instruction/`.
+### Step 1 — Generate model outputs
+
+Run all 7 strategies across all 4 models and 4 languages in parallel (2 GPUs):
 
 ```bash
-python run_mitigation_eval.py \
-  --config config.yml \
-  --languages Python JavaScript Rust Ruby
+bash run_adversarial.sh
 ```
 
-This will, for every enabled strategy in `config.yml`, generate files such as:
+Outputs are written to `output/adversarial/<model>/<language>/<strategy>.json`.
 
-- `output/<model_short_name>/baseline/packages_Python_instruct_vllm.json`
-- `output/<model_short_name>/greedy/packages_JavaScript_instruct_vllm.json`
-- `output/<model_short_name>/self_refine/packages_Rust_instruct_vllm_sr.json`
+Each output file is the input adversarial JSON with an `"answer"` field added per item.
 
-Each record contains the input instruction plus the model’s answer and timing / configuration metadata that you can use for downstream analysis (e.g., hallucination rates).
-
-### Running inference on custom JSON
-
-If you only want to run a mitigation strategy on your own prompts without computing metrics, use `run_mitigation_infer_json.py`.
-
-1. **Prepare input JSON** – a list of objects with `system` (optional) and `instruction` fields:
-
-```json
-[
-  {"system": "You are a coding assistant.", "instruction": "What Python packages can help with web scraping?"},
-  {"system": "You are a data science assistant.", "instruction": "Which R packages are most used for time series forecasting?"}
-]
-```
-
-2. **Run the script**:
+**To run a single model/strategy/language manually:**
 
 ```bash
 python run_mitigation_infer_json.py \
   --config config.yml \
-  --strategy baseline \
-  --input path/to/input.json \
-  --output path/to/output.json
+  --model "meta-llama/Meta-Llama-3-8B-Instruct" \
+  --short-name "llama3_8b" \
+  --strategy baseline \          # baseline | greedy | self_refine | dola | rag | nudging | contrastive_decoding
+  --language Python \            # Python | JavaScript | Rust | Ruby
+  --input  data/adversarial/adversarial_Python.json \
+  --output output/adversarial/llama3_8b/Python/baseline.json
 ```
 
-The output file mirrors the input list and adds an `answer` field for each item.
+### Step 2 — Evaluate PHR
 
-Key arguments:
+Once outputs are generated, compute the Package Hallucination Rate (PHR):
 
-- **`--strategy`**: One of `baseline`, `greedy`, `self_refine`, `dola`, `rag`, `nudging`, `contrastive_decoding` (must also be enabled in `config.yml`).
-- **`--language`**: Logical language label (e.g. `Python`, `JavaScript`) used by some strategies (RAG, self‑refine).
-- **`--batch-size`**: Optional override of the batch size used during generation.
+```bash
+python run_adversarial_phr.py
+```
 
-### Customising and extending
+To evaluate a specific model only:
 
-- **Change the base model**: Edit `model.name` and `model.short_name` in `config.yml`. Make sure the model is compatible with the specified quantization / dtype settings.
-- **Enable / disable strategies**: Toggle `enabled: true/false` under `strategies` in `config.yml` or adjust per‑strategy parameters (e.g. `max_new_tokens`, `temperature`).
-- **Add new instruction data**: Drop new `packages_<Language>_instruct.json` files under `data/instruction/` and include the language in `data.languages` (or pass via `--languages`).
+```bash
+python run_adversarial_phr.py llama3_8b
+```
 
-This module is designed to be self‑contained so you can plug in new models or strategies and systematically study their behaviour on package hallucination.
+The script prints a summary table per model and language:
+
+```
+Strategy                    PHR    Hallu /  Total
+────────────────────────────────────────────────────
+  baseline                0.612      45 /     73
+  greedy                  0.589      43 /     73
+  rag                     0.521      38 /     73  ← best
+  ...
+```
+
+A log file is also saved to `output/logs/adversarial_phr_<timestamp>.log`.
+
+### PHR metric
+
+```
+PHR = (hallucinated packages) / (total extracted packages)
+```
+
+Lower is better. A package is considered hallucinated if it does not appear in the canonical registry list (`data/package_list/`).
+
+## Models evaluated
+
+| Short name           | HuggingFace ID                                  |
+|----------------------|-------------------------------------------------|
+| `llama3_8b`          | meta-llama/Meta-Llama-3-8B-Instruct             |
+| `mistral_7b`         | mistralai/Mistral-7B-Instruct-v0.3              |
+| `qwen3_5_9b`         | Qwen/Qwen3.5-9B                                 |
+| `deepseek_coder_6_7b`| deepseek-ai/deepseek-coder-6.7b-instruct        |
+
+## Strategies
+
+| Strategy               | Description                                                  |
+|------------------------|--------------------------------------------------------------|
+| `baseline`             | Standard sampling (temperature=0.7, top_p=0.9)              |
+| `greedy`               | Greedy decoding (no sampling)                                |
+| `self_refine`          | Multi-round self-correction loop                             |
+| `dola`                 | Decoding by Contrasting Layers                               |
+| `rag`                  | Retrieval-Augmented Generation (Chroma + MiniLM)             |
+| `nudging`              | Token-level probability nudging                              |
+| `contrastive_decoding` | Expert vs. amateur model logit contrast                      |

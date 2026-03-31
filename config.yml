@@ -24,7 +24,6 @@ strategies:
       bnb_4bit_use_double_quant: true
       bnb_4bit_quant_type: nf4
     generation_kwargs:
-      do_sample: false
       top_p: 0.9
       top_k: 0
       num_beams: 1
@@ -46,10 +45,11 @@ strategies:
     max_rounds: 3
 
   dola:
-    enabled: false
+    enabled: true
     subdir: dola
-    max_new_tokens: 128
-    dola_mature_layer: 32            # override per model if needed
+    max_new_tokens: 32
+    dola_mature_layer: 18            # gemma-3-270m-it has 18 layers
+    dola_early_exit_layers: "4,8,12,16"
     dola_relative_top: 0.1
     dola_repetition_penalty: 1.2
     quantization:
@@ -59,12 +59,12 @@ strategies:
       bnb_4bit_quant_type: nf4
 
   rag:
-    enabled: false
+    enabled: true
     subdir: rag
     k: 5                             # number of retrieved statements
 
   nudging:
-    enabled: false
+    enabled: true
     subdir: nudging
     max_new_tokens: 128
     top_prob_thres: 0.4
@@ -72,7 +72,7 @@ strategies:
     nudging_model_name: null
 
   contrastive_decoding:
-    enabled: false
+    enabled: true
     subdir: contrastive_decoding
     max_new_tokens: 128
     alpha: 0.1

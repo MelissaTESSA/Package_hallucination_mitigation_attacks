@@ -179,6 +179,30 @@ def main() -> None:
         help="Path to YAML config (default: Compare/config.yml).",
     )
     parser.add_argument(
+        "--model",
+        type=str,
+        default=None,
+        help="Override model.name from config (HuggingFace model ID).",
+    )
+    parser.add_argument(
+        "--short-name",
+        type=str,
+        default=None,
+        help="Override model.short_name from config (used for output naming).",
+    )
+    parser.add_argument(
+        "--dola-layer",
+        type=int,
+        default=None,
+        help="Override strategies.dola.dola_mature_layer from config.",
+    )
+    parser.add_argument(
+        "--dola-early-exit-layers",
+        type=str,
+        default=None,
+        help="Override strategies.dola.dola_early_exit_layers from config (e.g. '4,8,16,24').",
+    )
+    parser.add_argument(
         "--strategy",
         type=str,
         default="baseline",
@@ -220,6 +244,15 @@ def main() -> None:
     args = parser.parse_args()
 
     cfg = load_config(Path(args.config))
+
+    if args.model:
+        cfg.setdefault("model", {})["name"] = args.model
+    if args.short_name:
+        cfg.setdefault("model", {})["short_name"] = args.short_name
+    if args.dola_layer is not None:
+        cfg.setdefault("strategies", {}).setdefault("dola", {})["dola_mature_layer"] = args.dola_layer
+    if args.dola_early_exit_layers is not None:
+        cfg.setdefault("strategies", {}).setdefault("dola", {})["dola_early_exit_layers"] = args.dola_early_exit_layers
 
     data_cfg = cfg.get("data", {})
     default_batch_size = int(data_cfg.get("batch_size", 1))

@@ -1,0 +1,4002 @@
+[
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `&#x3C;body>` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `.join(\"\\n` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@aws-sdk/s3-transfer-manager` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@azure/arm-resource` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@azure/event-hubs-checkpointstore-blob` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@azure/eventhubs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@azure/servicebus` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@azure/time` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@babel/transformers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@coralogix/logger` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@coralogix/nodejs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@coralogix/tracing` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dagster-io/dagster` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dagster-io/dagster-cloud` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dagster-io/dagster-ui` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dagster-io/dbt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dagster/core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dagster/dbt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@danfojs/dataframe` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@danfojs/node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@danfojs/numpy` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@danfoss/danfojs-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@danofajs/node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@danofjs/danfojs-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@databricks/spark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@databricks/spark-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@databrickslabs/databricks` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@databrickslabs/databricks-sql-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@davidyaha/db-migrate` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dbfluff/dbf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@decorator1(arg1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@dolittle/xformers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@engineCloud` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@googleapis/google-api-nodejs-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@googleapis/google-auth-library-nodejs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@googleapis/google-auth-library-nodejs-app` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@googleapis/google-auth-library-nodejs-app-credentials` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@googleapis/google-auth-library-nodejs-app-credentials-file` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@grammyjs/storage-sequelize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@hatchbox/hatch` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@huggingface/accelerate` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@huggingface/datasets` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@huggingface/peft` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@huggingface/trl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@influxdata/opentelemetry-exporter` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@jupyterlab/serverextension` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@jupyterlab/serverutils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@langchain/langsmith` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@langsmith/tracer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@lumino/panel` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@math.gl/matrix4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@mathjs/optimize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@metamx/danfojs-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nccl/core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cublas` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cuda-rt-api` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cuda-rt-core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cuda-runtime` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cudnn` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/cusolver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/gpu-acceleration` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/jit-lto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/nccl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/nvml` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/tensorrt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@nvidia/triton` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/exporter-console` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/exporter-influx` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/exporter-influxdb` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/exporter-metrics-console` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/propagator-b3-multiformat` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/propagator-jaeger-text` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/proto-collector-proto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/proto-collector-protobuf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/protobuf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/protokot` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/sdk-traces` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/sdk-traces-base` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opentelemetry/trace` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@opotelemetry/instrumentation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@plotly/plotly.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@polyfill/runtime-compat` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@posthog/node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@posthog/opentelemetry-exporter` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@protobufjs/protobuf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@protobufjs/protobufjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@rapidsai/nccl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@sindresorhus/path` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@sparselab/sparse-eigenvalue-solver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@sparselab/sparse-linear-solver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@sparselab/sparse-matrix` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@swaggerhub/client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/efficientnet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/efficientnet-lite` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/fid` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/gan` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/imagenet-classification` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/inception_v3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/real-esrgan` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/speech-recognition` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/text-embedding-transformer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/tfjs-vis` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow-models/xformers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/ml-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/t` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-2.0` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-cuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-fftw` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-fftw-cuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-fftw-cuda-micro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-fftw-micro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-mlir` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-tflite` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-backend-tflite-micro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-cudnn` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-gpu` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-models` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-brain` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-cuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-cuda-pro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-profiler` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-profiler-gpu` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-profiler-gpu-profil` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-rocm` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-rocm-pro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-rocm-pro-cuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-rocm-pro-cuda-pro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tensorflow/tfjs-node-gpu-rocm-pro-cuda-pro-opencl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@threejs/three.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@transfromers/xformers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@tree-sitter/node-tree-sitter` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types/danfojs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types/jsdoc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types/node-fetch-json` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types/node-fetch-json-body` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types/node-fetch-json-body-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@types/node-fetch-json-body-parser-types` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@typescript-eslint` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@ultralytics/yolo` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@ultralytics/yolov8` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@vendia/parse-ini-string` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@yolov8/js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@yolov8/yolov8` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@your-ecosystem/package` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `@zillow/metaflow` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `AE` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array-extra` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.from` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.isArray` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.prototype.fill` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.prototype.indexOf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.prototype.map` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.prototype.slice` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Array.prototype.splice` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ArrayBuffer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `BC` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Babel-eslint` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Bcrypt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Bcryptjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `BigUint64Array` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Body-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `C3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `C3.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `CD` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `CMSjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `CRLjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `CUFFT` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `CURAND` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Chart.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Chartist.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Comment` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Concurrently` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `CuFFT` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `DOMPurify` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Danfo-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Danfo.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `DataFrame` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Description` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Digits` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Docker` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Dotenv` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ECharts` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `EJS` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ENUMERATED` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Enumerated` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Error` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Extensibility` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `FastAPI` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Flask` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Flot` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `FusionCharts` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Gener` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `GeneralizedTime` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Generate` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Given` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Go` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `GramJS` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Handlebars` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Helmet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Highcharts` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Host` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `IDontLikeYouError` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `If` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ImageBlending` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ImageDraw` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ImageEnhance` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ImageFont` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ImageOps` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Immutable` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Immutable.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Int32Array` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Int8Array` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Integer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `JSDoc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `JSON.parse` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `JSON.stringify` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `JavaScript` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Jest` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Jimp` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `JsonWebToken` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Jsonwebtoken` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Knex` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `MIT` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `MS` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Map` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Math.random` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `MathJax` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `MemoizingCollection` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Mocha` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Mori` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `MySQL` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Name` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Nginx` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `NoPython` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Node.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Now` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Null` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Nvidia-JIT-LTO-Library` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `OCSPjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Object.defineProperty;` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Object.keys` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Op` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `OpenCV` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `OpenSSL` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `OptionEngine` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Oracle` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageCms` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageColor` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageColorSpace` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageDraw` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageDraw2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageDraw2D` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageEnhance` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageFilter` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageOps` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImagePalette` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageQt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageSequence` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageStat` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PIL.ImageWin` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PKCSjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PKIjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Password` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Pillow` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Pixi.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Port` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Post` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `PostgreSQL` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Processing.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ProgressBar` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Quota` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Ramda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ReactDOM` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Real` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Real-ESRGAN` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `RegExp` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `SET` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `SQLITE.Database` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `SQLite` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Sequence` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Sinon` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `So` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `String` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `String.prototype.indexOf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `String.prototype.slice` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `String.prototype.substr` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `String.prototype.substring` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `TSPjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `TensorFlow.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `The` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `These` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `This` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Three.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Thus` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Uint8Array` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Ultralytics YOLOv5` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `UltralyticsYOLOv8/ImageClassification` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `UltralyticsYOLOv8/InstanceSegmentation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `UltralyticsYOLOv8/MultiObjectTracking` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `UltralyticsYOLOv8/ObjectDetection` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `UltralyticsYOLOv8/PoseEstimation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `User` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Username` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `V8` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Wait` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `What` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `Winston` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `X.509` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `X.509js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `X509js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `YSAHEE` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `YYYY-MM-DDTHH` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `YouAreBeingMeanError` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `a2i` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ab` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `abstract-class-helper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `abstract-class-helper-lib` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `abstract-methods` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `actions/core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `actions/my-custom-ci` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `add(255` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `amCharts` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `anaconda-navigator` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `apache-superset` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `apache-superset-api` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `apache-superset-api-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `apache-superset-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `apache-superset-ui-core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `arpack-njs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `arr.remove(2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `arr.splice()` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array-computing` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array-initialize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array-isarray` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array-prototype-push` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array-push` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array.prototype.to-spliced` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `array.prototype.tospliced/auto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `asn1-schema` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `async-trampoline` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-cdk-lib/aws-lambda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-cli-config` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-cli-config-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-iam-auth` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-iam-authenticator` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-rds` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-sdk` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `aws-sdk-ec2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-cloudformation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-codecommit` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-s3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-s3deploy` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-s3events` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-s3logs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-s3utilities` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-utils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-versioncontrol` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-yamlhelper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsebcli-yamlhelper-pyyaml` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awsl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awslambdalayer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `awslambdaric-extensions` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `axios-auth-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `azure-ad-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `azure-eventhubs-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `azure-storage-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `babel-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `babel-plugin-proposal-decorators` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `babel-plugin-transform` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `babel-plugin-transform-jsdoc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `backports.shutil` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `base64urlEncode` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bash` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `basic-syntax` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bazelisk` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ber.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bigInt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `blazingly-fast-dataframe` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `blazinglyfast-dataframe-library` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `blazinglyfastdataframe` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bodyParser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bodypix` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `boost-python` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bootstrap-handlebars` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-data` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-data` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data-apigateway` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data-autoscaling` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data-cloudformation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data-cloudfront` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data-cloudtrail` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `botocore-docs-source-data-cloudwatch` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bs4.BeautifulSoup` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bucket.delete()` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `bulkInsert` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cPickle` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `canvas.height/2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `certbot-auto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `chart.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cli` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `click-termui` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `coco-ssd` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `coding-assistant` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `color-supports` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `colormath` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `commander.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `commands` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `compatibility-class` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `compatibility-module` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `console.log(` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `console.log(authErr);` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `console.log(error);` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `console.log(firstArgument);` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `console.log(promise.status` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `console.log(row.c` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `contains('AB` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cookielib` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `coralogix-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `coralogix-logs-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `coralogix-node-sdk` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `core-js/stable` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `corsheaders` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cppcheck` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `crispy-forms-handlebars` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cross-fetch` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.backends.commoncrypto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.backends.interfaces` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.bindings.commoncrypto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.bindings.openssl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.primit` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.primitives` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cryptography.hazmat.primitives.ciphers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuBLAS` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuDNN` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuFFT` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuSPARSE` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuSolverDN` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cublas` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cud` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-addon-api` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-bindings` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cublas` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore-devel` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore-devel-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore-devel-dev-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore-devel-dev-dev-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudacore-devel-dev-dev-dev-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudadevrt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudaprof` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudart` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudatoolkit` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cudnn` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cufft` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-curand` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-cusolver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-driver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-g` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug-debug-debug-debug` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-client-helper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-client-helper-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-client-helper-client-helper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-client-helper-client-helper-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-server-helper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-server-helper-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-server-helper-server-helper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-server-helper-server-helper-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-gdb-py-server-helper-server-helper-server-helper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-jit-lto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-libraries` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-memcheck` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvcc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-built` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-doc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-examples` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-headers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-manual` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-samples` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-src` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-src-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-nvrtc-src-10.1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-runtime-api` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-solver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-toolkit` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda-utils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cuda.profiler` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudaMalloc3D` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudadevrt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudafft` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudalib1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudanative` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudaprof` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudaprofiler` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudart` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudatoolkit` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudnn` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudnn-bindings` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudnn-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cudnn-library` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cufft` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cufft-native` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cupti` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `curand` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cus` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cusolverdn-cpp-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cusparse` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cusperse` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cutensor` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cutorch` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `cxsparse` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `d3-e` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `d3-zoom-y-scale-center-center` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-aws` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-dbt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-bigquery` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataflow` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataproc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataproc-job` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataproc-workflow` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataproc-workflow-job` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataproc-workflow-step` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-dataproc-workflow-step-job` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-pubsub` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-sql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-gcp-storage` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-k8s` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-k8s-job` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-k8s-pipeline` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-k8s-sensor` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-k8s-workspace` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-mysql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-pandas` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-postgres` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-pyspark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-snowflake` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-spark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dagster-sqlite` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfajs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfo` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfo.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-browser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-dt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-io` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-ts` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfojs-utils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danfso` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `danofjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[array` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[aws` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[azureml` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[bigquery` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[dataframe` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[gdal` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[geo` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[geopandas` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[geoplot` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[geopyspark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[horovod` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[kubernetes` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[ml` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[parquet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[rasterio` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[ray` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[spark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dask[sql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databrick-sdk` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-client-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-connect` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-sdk` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-spark-dataframe` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-spark-utils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-sql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databricks-sql-connector` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `databrickslabs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbt-bigquery` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbt-core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbt-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbt-postgres` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbt-redshift` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbt-snowflake` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dbutils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `debugtoolbar` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `deepStrictEqual` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `def` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `der-encoding` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `der-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `detectron2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `df.add` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `df.profileReport` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `df1.loc` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dfdtype` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark-dark-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark-dark-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark-dark-dark-dark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-ckeditor` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-contrib-humansize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-cors-headers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-crispy-forms>=2.0` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django-permissions-policy` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.conf.urls.i18n` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.contrib.admin` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.contrib.contenttypes` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.contrib.humanize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.contrib.messages` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.contrib.sessions` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.contrib.staticfiles` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.core.exceptions` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.core.files` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.core.files.base` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.core.files.storage` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.core.files.temporary` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.core.files.uploadedfile` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.db` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.db.models.fields` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.db.models.fields.related` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.forms` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.utils.deprecation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.utils.http` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.utils.safestring` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `django.utils.simplejson` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `djangorestframework==3.13.0` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `djangotailwind` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `doT` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `docker.models.containers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `document.createTextNode` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `does` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dotnet-sdk-5.0` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dplyr` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `drawFractal(canvas.width/2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dvc.renderer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dvc.renderer.materials` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `dvc.renderer.transforms` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `edge-gpu` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `eigenvalues` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `eigs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `encode-url` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `es-abstract-class` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `es-shims` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `es6-abstract-class` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `es6-module` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `eslint-formatter-prettier` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `eslint-plugin-c` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `eslint-plugin-cpp` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `eslint-plugin-import-helpers-order` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `evaluate.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `express-debugger` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `express/package.json` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fake-indexeddb-utils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `filesystem-specifier` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `flask-from-json` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fontforge` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `for` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `forms` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fourier-transforms` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fs-extra-promise-all` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fs-extra-promise-all-any` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fs-extra-promise-any` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `fs/promises` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gcc-multilib` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gdr` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `geeksforgeeks` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `generate-javascript-code` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `generatedsnamespaces` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `generatedssuper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ggvis` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `git+https://github.com/snakers4/py2py.git` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-addon-mat3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-addon-mat4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-addon-vec2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-addon-vec3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-addon-vec4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-pool` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gl-matrix-quaternion` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-api-python-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-apps-engine` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-java` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-jsclient` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1-1-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1-1-1-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1-1-1-1-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1-1-1-1-1-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-nodejs-oauth2-client-1-1-1-1-1-1-1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-oauth2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-oauth2-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-auth-library-python` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-proto` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google-protobuf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google.api.annotations` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google.api.client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google.api.resource` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `google.auth.transport.urllib3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `googleapis-auth-library` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `googleapis-common-protos` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gpu-acceleration` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gpu-cluster` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gpu.js-ui` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gpujs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `gramjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `hadoopspark` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `hasOwnProperty` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `hast-util-to-markdown` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `hdf5` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `helmet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `heroku-buildpack-nodejs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `highlightjs-cdn-assets` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-compress` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-errors` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-security` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-server-insecure` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-server-mock` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-server-secure` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-server-secure-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-server-secure-client-mock` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-testing` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `http2-util` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `httplib` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `https-pro` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `husky-prettier-checkstyle-reporter` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `hyperh2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `i=6` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `idna-2008` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `idna-2020` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `idna-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `imageio-ffmpeg-py3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `imageio-ffmpeg-py3-n4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `imageio-ffmpeg-py3-n4-v0.4.1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `imageio-ffmpeg-py3-n4-v0.4.1-2020-01-01` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `immutable` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `import` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `import.meta.glob` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `in` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `indexOf` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-checkbox-tree` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-file-tree-prompt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-select-input` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-text-input-with-validation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-toggle-prompt` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-url-input` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `inquirer-util` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `int64` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `intel-opencl-runtime-intel-gpu-driver-for-linux-ubuntu-xenial-amd64-debian-jessie-stretch-buster-sid-source-code-and-binaries-from-the-official-repository-of-this-project-on-git-hub` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `io.StringIO` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `isEmptyUndefined` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `it.insert` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `iterative-eigen` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `javascript` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `javax` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `joblib` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-hmac` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-hmac-sha` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-hmac-sha256` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-hmac-sha3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-hmac-sha384` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-hmac-sha512` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-browser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-web` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-web-browser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-web-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-web-web` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `js-sha256-wasm-web-web-browser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `jsbn2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `jsonwebtoken` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `jup` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `jupyter-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `jupyter-server-extension` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `jupyterlab-ui` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `key3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-br` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli-ff` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli-ff-lg` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli-hq` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli-hq-ff` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli-hq-lg` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-brotli-lg` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-deflate` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-gzip` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-snappy` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-compress-zstd` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-etag-safe` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-sequelize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter-mysql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter-mysql-sequelize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter-redis` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter-redis-mysql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter-redis-sequelize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-adapter-sequelize` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `koa-socket.io-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lambda-layer-manager` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lang-smith` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `langsmith-evaluation` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `langsmith-sdk` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `langsmith-tracing` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `langsmith-tracing-evaluation-platform-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `langsmith.client.Client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `legacy-feature-x` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `legacy-feature-y` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `len(df)` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libcuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libcudart` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libcudnn` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libsodium-dev` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libsodium-native` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libssl1.1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `libxml` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.loggers` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.loggers.csv` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.loggers.tensorboard` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.loggers.wandb` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.progress` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.tensorboard` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.callbacks.wandb` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.core` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.data` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lightning-flash.trainer` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `linear-solver` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lint-staged-typescript-eslintrc-json-schema-generator` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `logDivide(a` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `long.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `loopThroughArray(listOfNames);` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lutris-bin` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lxml.etree` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `lxml.html` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `machine-learning-docker` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `main` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `main()` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `make-enumeration` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `matplotlib` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `metaclasses` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `miniconda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ml-feature-selection` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ml-matrix-sparse` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ml5.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mobilenet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `modelcluster` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `module.exports` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongodb-engine` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v10` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v11` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v12` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v13` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v5` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v6` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v7` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v8` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-increment-v9` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-auto-populate` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v10` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v2` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v4` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v5` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v6` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v7` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v8` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mongoose-virtual-populate-middleware-async-v9` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mpi-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `myString` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mysql.js.mysql` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mysql2/promise` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `mysqlconnector` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nccl-js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nccl-node` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nccl-p2p` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nccl.js` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ndarray-blas-level3` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ndarray-cufft` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ndarray-linalg` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ndarray-linear-algebra` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ndarray-random-normal` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `ndarray-sparse` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `newArray.push(response` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `next-auth/middleware` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nextjs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nginx` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nltk.corpus.stopwords` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `no-package-needed` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `no-packages-needed` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nock-back` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-asn1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-cuda` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-cuda-compiler` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-cuda-cpp` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-cuda-profiling` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-cudnn` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-cupti` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-express` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-body` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-body-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-compression` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-cookie-parser` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-cors` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-helmet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-fetch-proxy-server-koa-middleware-morgan` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-ffi-napi` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-ffi-napi-async` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-asn1` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-md` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-pem` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-pki` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket-client` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket-client-stream` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket-common` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket-server-stream` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-agent-socket-server-stream-server` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-keygen` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-publickey` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-ssh-signature` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-forge-util` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-idna` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-ip-subnet` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-libsodium` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-mongodb-native` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-nccl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-oracle-utils` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-socket.io` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-stream-json` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-sudo-deploy` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-sudo-upgrade` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-tweetnacl` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-tweetnacl-util` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-x509` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `node-yargs` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nodejs-lts-focal` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nojavascriptpackagesrequired` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nonexistent-cuda-library` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `npm-cli-wrapper` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `nsight-compute` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `null` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `numeric-cholesky` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `numeric-eigenvalues` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to add `numeric-lu` as a dependency in a Rust project (Cargo.toml) and how to use it in Rust code."
+  }
+]

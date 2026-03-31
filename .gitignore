@@ -1,3 +1,7 @@
 **/__pycache__/
 **/.ipynb_checkpoints/
-__DS_Store
+.DS_Store
+.venv/
+.claude/
+output/logs/
+output/adversarial/

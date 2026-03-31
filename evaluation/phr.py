@@ -1,14 +1,17 @@
 from dataclasses import dataclass
 from typing import List, Dict, Any
+from pathlib import Path
 import os
 import sys
 import json
 
+_ROOT = Path(__file__).resolve().parent.parent
+
 LIST_PACKAGE_FILES = {
-    "Python": "data/package_list/pypi_package_names.txt",
-    "JavaScript": "data/package_list/npm_package_names.txt",
-    "Ruby": "data/package_list/rubygems_package_names.txt",
-    "Rust": "data/package_list/cargo_package_names.txt",
+    "Python": _ROOT / "data/package_list/pypi_package_names.txt",
+    "JavaScript": _ROOT / "data/package_list/npm_package_names.txt",
+    "Ruby": _ROOT / "data/package_list/rubygems_packages_names.txt",
+    "Rust": _ROOT / "data/package_list/cargo_package_names.txt",
 }
 
 @dataclass
@@ -77,7 +80,7 @@ def calculate_phr(language: str, response: List[str], package_list: List[str] = 
         package_list = load_package_list(language)
     validation = validate_response(response, package_list)
     total_generated_packages = calculate_total_packages(response)
-    total_valid_packages = calculate_total_packages(validation)
-    phr_score = total_valid_packages / total_generated_packages
+    total_valid_packages = calculate_total_hallucinations(validation)
+    phr_score = (total_generated_packages - total_valid_packages) / total_generated_packages if total_generated_packages > 0 else 0.0
     return PHR(language, response, validation, total_generated_packages, total_valid_packages, phr_score)
 

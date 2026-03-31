@@ -1,0 +1,4002 @@
+[
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `/usr/local/bin/get_ca_bundle.py` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `AE` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Angular` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Array.prototype.slice` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `BC` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Bcrypt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Bcryptjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `C3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `CD` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `CMSjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `CRLjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Comment` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Cuda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `DRF` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Description` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Digits` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Dotenv` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ECharts` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ENUMERATED` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Enumerated` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Extensibility` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Flask` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Flask==2.2.2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Flot` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `FusionCharts` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Gener` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `GeneralizedTime` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Generate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Given` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Helmet` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Highcharts` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Host` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `If` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ImageBlending` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ImageDraw` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ImageEnhance` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ImageFont` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ImageOps` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Immutable_collections` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Integer` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Jest` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `JsonWebToken` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Jsonwebtoken` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Knex` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `MIT` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `MS` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `MathJax` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Mocha` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `MongoDB` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Mori` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `NCCL` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Name` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `NoPython` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Now` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Null` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `OCSPjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Object.defineProperty;` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `OpenCV` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `OpenSSL.crypto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PEP 668` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PIL.Image` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PIL.ImageChops` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PIL.ImageMath` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PIL.ImageTk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PKCSjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PKIjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Password` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Pillow` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Port` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Post` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyMySQL-MySQLdb` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyMySQL-MySQLdb-connector` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyMySQL-MySQLdb-connector-c` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyMySQL-MySQLdb-connector-cffi` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyMySQL-MySQLdb-connector-cffi-asyncio` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyMySQL-MySQLdb-connector-cffi-asyncio-ssl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `PyTorch` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Queue` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `RPDS` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Ramda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Re` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ReactDOM` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Real` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `SET` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `SQLITE.Database` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Sequence` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Sinon` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `So` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `String.prototype.indexOf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `String.prototype.substr` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `String.prototype.substring` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `StringIO` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `System.Memory` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `These` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `This` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Thus` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Tkinter` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `UnicodeEncodeError` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Username` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ValidationError` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Wait` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `Winston` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `YSAHEE` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `\\begin` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `__` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `__builtin__` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `a2i` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ab` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `abstractmethod` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `acme.challenges` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `acme.jose` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `acme.messages` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `acme.standalone` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `acme_protocol` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `add(255` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `addressbook_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `addressbook_pb2_grpc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aiohttp_sockets` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aiohttp_websocket` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `allauth` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `allauth.account` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `allauth.socialaccount` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `amCharts` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `anaconda-navigator` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `arpack-njs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `arr.remove(2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `arr.splice()` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `array-computing` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `array-remove` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `asn1_codecs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `asn1_parser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `asn1_types` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `async-trampoline` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-cli-config` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-cli-config-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-iam-auth` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-iam-authenticator` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-lambda-py` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-sdk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws-sdk-ec2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `aws_cdk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-cloudformation` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-codecommit` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-s3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-s3deploy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-s3events` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-s3logs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-s3utilities` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-versioncontrol` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-yamlhelper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsebcli-yamlhelper-pyyaml` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awsl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awslambdalayer` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `awslambdaric-extensions` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure-ad-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure-eventhubs-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure-storage-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure.common.client_factory` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure.common.credentials` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure.core.credentials` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure.core.exceptions` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure.core.pipeline` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `azure.core.pipeline.policies` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `babel-plugin-transform` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `backports.configparser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `backports.datetime` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bash` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `basic-syntax` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bigInt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `binary_search_tree` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `blazing_fast_dataframe_library` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `blazingly-fast-dataframe` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `blazinglyfast-dataframe-library` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `blazinglyfastdataframe` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `blend_images` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bodyParser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `boost-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bootstrap-handlebars` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-data` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-data` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data-apigateway` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data-autoscaling` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data-cloudformation` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data-cloudfront` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data-cloudtrail` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `botocore-docs-source-data-cloudwatch` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bravado.client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bravado.requests_client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `bucket.delete()` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_5` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_6` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_7` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_ieee754_8` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_pure` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `buffer_raw` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cPickle` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cStringIO` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `calamine` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cdk.aws_lambda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `certbot-auto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `certbot_dns_common` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cli` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `click-termui` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `coding-assistant` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `color-supports` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `colormath` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `commands` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `concurrent-futures` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `concurrent.futures` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `console.log(` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `console.log(authErr);` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `console.log(error);` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `console.log(firstArgument);` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `console.log(promise.status` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `console.log(row.c` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `contains('AB` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cookielib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `coralogix-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `coralogix-logs-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `coralogix-sdk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `coralogix-sdk-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cppcheck` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cpython` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `create_engine` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `crispy-forms` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cross-fetch` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.backends` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.primitives.asymmetric` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.primitives.asymmetric.padding` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.primitives.asymmetric.rsa` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.primitives.asymmetric.utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.primitives.hashes` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.hazmat.primitives.serialization` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cryptography.x509` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ctypes.util` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuSolver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cud` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cublas` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore-devel` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore-devel-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore-devel-dev-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore-devel-dev-dev-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudacore-devel-dev-dev-dev-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudadevrt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudaprof` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudart` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudatoolkit` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cudnn` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cusolver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-cusparse` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-driver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-g` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-cli-node-debug-debug-debug-debug-debug-debug-debug-debug-debug` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-client-helper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-client-helper-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-client-helper-client-helper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-client-helper-client-helper-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-server` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-server-helper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-server-helper-server` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-server-helper-server-helper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-server-helper-server-helper-server` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-gdb-py-server-helper-server-helper-server-helper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-memcheck` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvcc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-built` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-doc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-examples` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-headers` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-manual` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-samples` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-src` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-src-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-nvrtc-src-10.1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-runtime-api` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda-utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda.cudart` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda.prof` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda.profiler` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudaMalloc3D` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda_fft` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cuda_native_runtime` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudadevrt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudafft` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudalib1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudanative` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudaprof` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudaprofiler` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft_fftpack` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft_fftpack_fftpack` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft_fftpack_fftpack_fftpack` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft_fftpack_fftpack_fftpack_fftpack_fftpack` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudf_cudatoolkit_fft_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fftpack_fft` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cudnn-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cufft-native` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupti_cuda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupy-cuda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupy.cuda.cusolver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupy.cuda.cusparse` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupy.cuda.nccl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupyx` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupyx-scipy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupyx.scipy.fftpack` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupyx.scipy.sparse` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cupyx.scipy.sparse.linalg` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `curand_bindings` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `curand_wrapper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cus` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cusolver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cusparse.csricc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cusparse.csrsort` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cusperse` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cutensor` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `cutorch` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `d3-e` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `d3-zoom-y-scale-center-center` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `daat` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-aws` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-bigquery` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataflow` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataproc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataproc-job` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataproc-workflow` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataproc-workflow-job` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataproc-workflow-step` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-dataproc-workflow-step-job` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-pubsub` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-sql` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-gcp-storage` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-k8s` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-k8s-job` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-k8s-pipeline` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-k8s-sensor` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-k8s-workspace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-mysql` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-pandas` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-postgres` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-pyspark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-snowflake` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-spark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dagster-sqlite` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfajs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfo` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfojs-browser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfojs-core` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfojs-dt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfojs-io` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfojs-utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danfso` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `danofjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dask.distributed` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dask[geopandas` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `data.table` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `databrick-sdk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `databricks-spark-dataframe` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `databricks.koalas` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `databricks_connector` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `databrickslabs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dateutil` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dateutil.parser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dbt_dagster` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dbt_dagster_hello_world` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dbutils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `debugtoolbar` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `deep_sort` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `def` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `defaultdict` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `detectron2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `discord.ext.commands` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark-dark-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark-dark-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-admin-tools-theming-bootstrap-5-dark-dark-dark-dark-dark-dark-dark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-ckeditor` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-contrib-humansize` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-crispy-forms>=2.0` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django-db-templates` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.conf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.contrib.auth` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.contrib.auth.models` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.core.mail` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.db.models` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.db.models.Q` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.http` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.http.StreamingHttpResponse` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django.utils.translation` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `django_permissions_policy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `djangorestframework==3.13.0` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `djangotailwind` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dl_on_flink` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dns.resolver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `docutils.core` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `docutils.writers.html4css1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `docutils.writers.latex2e` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `does` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dokku` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `dplyr` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `drawFractal(canvas.width/2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `embed-video` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `embed_video` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `encode-url` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `eslint-formatter-prettier` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `eslint-plugin-import-helpers-order` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fake-indexeddb-utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fast_asn` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fastasn1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fibonacci_heap` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `flask-from-json` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fontforge` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fontpy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `for` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `forms` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fs-extra-promise-all` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fs-extra-promise-all-any` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `fs-extra-promise-any` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `future.builtins` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `future.utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gcc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `geeksforgeeks` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `generate-javascript-code` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `generate_code(task)` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `generate_profile_report` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `generate_python_code` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `generatedsnamespaces` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `generatedssuper` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `get_all` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `get_package_info` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ggvis` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `git` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `git+https://github.com/snakers4/py2py.git` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-addon-mat3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-addon-mat4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-addon-vec2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-addon-vec3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-addon-vec4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-pool` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gl-matrix-quaternion` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-api-python-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-apps-engine` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-java` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-jsclient` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1-1-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1-1-1-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1-1-1-1-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1-1-1-1-1-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-nodejs-oauth2-client-1-1-1-1-1-1-1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-oauth2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-oauth2-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-auth-library-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-proto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google-protobuf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.api_core.client_options` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.auth.transport.requests` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.oauth2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.oauth2.credentials` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.oauth2.service_account` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.protobuf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google.protobuf.json_format` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google_auth_oauthlib.flow` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google_domains_api` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `google_drive_downloader` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `googleapiclient.discovery` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `googleapiclient.errors` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `googleapiclient.http` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `googleapis-auth-library` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `googletrans==4.0.0-rc1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `gpujs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `greeter_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `greeter_pb2_grpc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hadoopspark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hast-util-to-markdown` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hdf5` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hello_world_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hello_world_pb2_grpc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `helloworld_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `helloworld_pb2_grpc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `helmet` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hf_hub` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-compress` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-core` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-errors` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-parser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-security` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-server-insecure` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-server-mock` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-server-secure` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-server-secure-client` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-server-secure-client-mock` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-testing` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `http2-util` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `httplib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `husky-prettier-checkstyle-reporter` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `hyperh2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `i=6` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `idna-2020` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `imageio-ffmpeg-py` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `imageio-ffmpeg-py3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `imageio-ffmpeg-py3-n4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `imageio-ffmpeg-py3-n4-v0.4.1` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `imageio-ffmpeg-py3-n4-v0.4.1-2020-01-01` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `immutable-collections` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `immutable_collections` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `import` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `in` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-checkbox-tree` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-file-tree-prompt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-select-input` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-text-input-with-validation` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-toggle-prompt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-url-input` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `inquirer-util` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `int64` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `intel-opencl-runtime-intel-gpu-driver-for-linux-ubuntu-xenial-amd64-debian-jessie-stretch-buster-sid-source-code-and-binaries-from-the-official-repository-of-this-project-on-git-hub` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `io.StringIO` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `isEmptyUndefined` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `is_string(1.0e` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `iso8601_datetime` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `java` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `java.util.ArrayList` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `java.util.Arrays` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `javax` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `joblib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `josepy.jws` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-hmac` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-hmac-sha` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-hmac-sha256` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-hmac-sha3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-hmac-sha384` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-hmac-sha512` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-browser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-web` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-web-browser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-web-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-web-web` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `js-sha256-wasm-web-web-browser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jsbn2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `json_parse` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jsonschema_validator` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jsonwebtoken` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jup` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_kernel` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server.base.handlers` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server.extension.application` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_config` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_extension` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_extension_fileid` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_servers` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_setup` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_version` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base_manager` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base_manager_mixin` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base_manager_mixin_base` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base_manager_mixin_base_manager` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base_manager_mixin_base_manager_mixin` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyter_server_proxy_widgets_base_manager_mixin_base_manager_mixin_base` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab-ui` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_extension` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_prettier` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_prettier_babel` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_prettier_eslint` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_prettier_postcss` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_prettier_stylelint` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_prettier_typescript` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `jupyterlab_code_formatter_pygments` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `key3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-br` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli-ff` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli-ff-lg` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli-hq` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli-hq-ff` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli-hq-lg` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-brotli-lg` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-deflate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-gzip` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-snappy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-compress-zstd` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `koa-etag-safe` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `lang-smith` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `len(df)` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libffi-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libsodium-native` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libssl-dev` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libxml` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libxml2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libxml2-python3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libxslt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `libxslt-python3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `linear-solver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `lint-staged-typescript-eslintrc-json-schema-generator` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `list_all_packages` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `logDivide(a` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `loopThroughArray(listOfNames);` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `machine-learning-docker` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `macos` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `main` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `main()` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `make-enumeration` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `matplotlib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `matplotlib.pyplot` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `microbenchmark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `miniconda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ml_module` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ml_project_logger` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongodb-engine` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v10` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v11` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v12` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v13` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v5` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v6` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v7` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v8` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-increment-v9` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-auto-populate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v10` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v4` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v5` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v6` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v7` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v8` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mongoose-virtual-populate-middleware-async-v9` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `myString` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `my_c_function` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `my_generated_proto_file` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `my_pipeline` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `my_pycuda_module` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `my_service_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `my_service_pb2_grpc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `mysqlconnector` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nacl.encoding` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nacl.exceptions` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nacl.public` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nacl.secret` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nacl.signing` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nacl.utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nccl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nccl-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nccl_native` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nccl_net_ib_pep_rnr_retry_disable` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ndarray-cufft` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `newArray.push(response` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `new_attr_val=self._wrap_callables(attr_value)` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nextjs` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `no-package-needed` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `no-packages-needed` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nock-back` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nojavascriptpackagesrequired` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nonexistent-cuda-library` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nsight-compute` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `null` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `numba_dppy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvJITLTO` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvccl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-cuda-toolkit` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-docker` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-gpu` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-gpu-cluster` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-gpu-cluster-ui` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-gpu-cluster-ui-test` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-gpu-cluster-ui-test-ui` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-jit` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-jit-lto-cuda` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-jit-lto-cudnn` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-jit-lto-tensorflow` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-jitlto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-ngx` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia-rtc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia.jit_lto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia.jitlto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia_gpu` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia_jit_lto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvidia_jit_lto_library` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvjitllc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvjitlto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvprof` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvprof_api` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtc-builtin-addon` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtc-builtin-addon-napi` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtc-builtin-addon-napi-v3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtc-builtin-addon-v3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtc-builtin-addon-v3-napi` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtc-builtin-addon-v3-napi-v3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `nvrtdnn` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `oauthlib.requests` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `object` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `object-oriented` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `object_list` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `oms-logging-handler` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `oms-service-extension` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `open_telemetry` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opencv` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelem` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-core` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-console` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-influxdb` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-jaeger` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-grpc-metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-grpc-trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-http-metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-http-trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-otlp-metric` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-otlp-metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-otlp-span` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-exporter-otlp-otlp-trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-instrument` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-instrumentation` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-instrumentation-aiohttp` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-instrumentation-boto3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-instrumentation-httplib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-node` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-proto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-proto-collector/prototrace_collector/metric_service_grpc_pb` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-resource` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry-trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.exporter.influxdb` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.exporter.otlp.proto.grpc.trace_exporter` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.exporter.otlp.proto.http.trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.exporter.otlp.proto.metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.exporter.otlp.proto.trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.proto.metrics.v1.metrics_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.proto.trace.v1.trace_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.sdk.metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.sdk.metrics.export` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.sdk.resources` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.sdk.trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.sdk.trace.export` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.trace` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `opentelemetry.trace.tracer` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `org` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `os` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `os.path.dirname` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `otlp-metrics-protobuf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `packaging.metadata` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-datareader` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-flavor` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-gbq` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-plotting` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-profiling` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-seaborn` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-to-sql` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas-tqdm` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas<2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandas==1.3.3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pandasql.sqldf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `parseDate('2019-01-01` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `parseTime('2020-0` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `parti` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `partiql_parser` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `perf_hooks` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `perf_hooks.performance` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pester` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `petal_length` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `petal_width` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-promise-array-helpers` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-promise-errors` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-promise-query-stream` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-promise-tx` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-promise-uniqset` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-search` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-search-text` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-search-text-tsquery` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-search-text-tsvector` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-search-text-utils` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pg-sequence` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pip-poetry` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pipx` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pkg_resources` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pl-bolts` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `plotly.graph_objects` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `plugin('after` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pluginSystem.call` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `positiveIntValue` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `posixpath` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `postgres-native` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `posthog-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `posthog-python-sdk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pre-commit-hook-runner-for-git-hooks-in-npm-scripts` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `prettier-eslint-config-airbnb-typescript` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `print(\"Hello` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `print(a.generateParenthesis(i))` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `print(file` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `print(s[2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `print(sort_array(arr))` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `print(x)` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `progress-bar-bootstrap` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `progress-bar-bootstrap-stripped` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `promise.then((result)` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `proto_pb2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `proto_pb2_grpc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `psycop` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `py` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate-aggregate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate-aggregate-aggregate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate-aggregate-aggregate-aggregate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate-aggregate-aggregate-aggregate-aggregate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate-aggregate-aggregate-aggregate-aggregate-aggreg` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-pandas-extensions-dataframe-groupby-aggregate-aggregate-aggregate-aggregate-aggregate-aggregate` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow-python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyarrow.csv` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-codec` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-error` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto-compat` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto-compat-rng` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto-compat-rng-random` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto-compat-rng-random-nonce` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto-compat-rng-random-nonce-random` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-m2crypto-compat-rng-random-nonce-random-nonce` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc5280` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc5652` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6522` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6523` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6524` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6525` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6526` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6527` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6528` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6529` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6530` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-modules-rfc6531` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-pem` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-rfc5652` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1-xml` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyasn1_rfc` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycairo-gobject` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycairo-gobject-cairo` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycairo-gobject-cairo-gtk` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycuda-tools` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycuda.autoinit` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycuda.compiler` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycuda.curandom` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycuda.driver` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycuda.gpuarray` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pycutl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pydantic-openapi-generator` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pydantic.BaseModel` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyftsubset` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pygments.formatters` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pygments.lexers` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pylab` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pynvml` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pypariql` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyparitl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyparqi` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyparquet` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyqt` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-mibs-downloader` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-nextgen-smi` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc1902` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc1905` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3412` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3413` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3414` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3416` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3417` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3418` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3419` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3422` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3423` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3424` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-proto-rfc3427` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pysnmp-smi` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyspark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pyspark.sql` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytables` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest-benchmark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest-cov` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest-flakes` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest-mock` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest-xdist` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytest==7.4.2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-l` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-blackd` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-flake8` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-mypy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-pycodestyle` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-pydocstyle` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-pylint` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-pyls-spyder` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-pyls-vscode` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-pyls-xonsh` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-yapf` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-yapf-xonsh` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-yapf-xonsh-black` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-yapf-xonsh-flake8` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-lsp-yapf-xonsh-mypy` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python-requests` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3-full` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3-openssl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3-pip` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3-venv` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3-xyz` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `python3.11` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-ge` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-benchmark` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-contrib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-extensions` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-metrics` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-nlp` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-profiler` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-rl` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-sphinx` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch-lightning-transformers` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_base_cased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_base_multilingual` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_base_multilingual_cased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_base_multilingual_uncased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_base_uncased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_large` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_large_cased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_large_uncased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_bert_uncased` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_distilbert` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_distilroberta` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_gpt2` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `pytorch_pretrained_roberta` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `raku` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `random` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `ray[rllib` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `rds` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `re` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `re.compile` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `re.escape` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `re.findall` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `re.finditer` using pip and how to import it in a Python script."
+  },
+  {
+    "system": "You are a coding assistant.",
+    "instruction": "Show me how to install the Python package `re.match` using pip and how to import it in a Python script."
+  }
+]
