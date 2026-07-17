@@ -35,6 +35,7 @@ from mitigation.dola import DoLaGenerator
 from mitigation.rag import RagGenerator
 from mitigation.nudging import NudgingGenerator
 from mitigation.contrastive_decoding import ContrastiveDecodingGenerator
+from mitigation.actlcd import ActLCDGenerator
 from mitigation.interface import ChatMessage, ChatRole
 
 
@@ -110,6 +111,8 @@ def build_generator(
             amateur_model_name=amateur_name,
             config=strat_cfg,
         )
+    if strategy == "actlcd":
+        return ActLCDGenerator(model_name=model_name, config=strat_cfg)
 
     raise SystemExit(f"Unknown strategy '{strategy}'.")
 
@@ -137,15 +140,18 @@ def run_batch_chat(
     gen: Any,
     conversations: List[List[ChatMessage]],
     batch_size: int,
+    items: List[Dict[str, Any]] | None = None,
+    output_path: Path | None = None,
 ) -> List[str]:
     """
     Run batch_chat_generation with dynamic batch size that adapts to GPU memory.
+    Saves results incrementally to output_path after each batch.
     """
     results: List[str] = [""] * len(conversations)
     idx = 0
     cur_bs = max(1, batch_size)
 
-    pbar = tqdm(total=len(conversations), desc="inference", leave=False)
+    pbar = tqdm(total=len(conversations), desc="inference", leave=True)
     while idx < len(conversations):
         chunk = conversations[idx : idx + cur_bs]
         try:
@@ -162,8 +168,15 @@ def run_batch_chat(
 
         for offset, ans in enumerate(answers):
             results[idx + offset] = ans
+            if items is not None:
+                items[idx + offset]["answer"] = ans
         idx += cur_bs
         pbar.update(len(chunk))
+
+        if items is not None and output_path is not None:
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(items, f, ensure_ascii=False, indent=2)
+
     pbar.close()
     return results
 
@@ -203,6 +216,18 @@ def main() -> None:
         help="Override strategies.dola.dola_early_exit_layers from config (e.g. '4,8,16,24').",
     )
     parser.add_argument(
+        "--actlcd-layer",
+        type=int,
+        default=None,
+        help="Override strategies.actlcd.actlcd_mature_layer from config.",
+    )
+    parser.add_argument(
+        "--actlcd-early-exit-layers",
+        type=str,
+        default=None,
+        help="Override strategies.actlcd.actlcd_early_exit_layers from config (e.g. '4,8,16,24').",
+    )
+    parser.add_argument(
         "--strategy",
         type=str,
         default="baseline",
@@ -214,6 +239,7 @@ def main() -> None:
             "rag",
             "nudging",
             "contrastive_decoding",
+            "actlcd",
         ],
         help="Mitigation / decoding strategy to use.",
     )
@@ -253,6 +279,10 @@ def main() -> None:
         cfg.setdefault("strategies", {}).setdefault("dola", {})["dola_mature_layer"] = args.dola_layer
     if args.dola_early_exit_layers is not None:
         cfg.setdefault("strategies", {}).setdefault("dola", {})["dola_early_exit_layers"] = args.dola_early_exit_layers
+    if args.actlcd_layer is not None:
+        cfg.setdefault("strategies", {}).setdefault("actlcd", {})["actlcd_mature_layer"] = args.actlcd_layer
+    if args.actlcd_early_exit_layers is not None:
+        cfg.setdefault("strategies", {}).setdefault("actlcd", {})["actlcd_early_exit_layers"] = args.actlcd_early_exit_layers
 
     data_cfg = cfg.get("data", {})
     default_batch_size = int(data_cfg.get("batch_size", 1))
@@ -268,17 +298,11 @@ def main() -> None:
     # Build generator for selected strategy
     gen = build_generator(args.strategy, cfg, args.language)
 
-    # Run inference
-    answers = run_batch_chat(gen, conversations, batch_size=batch_size)
-
-    # Attach answers and write output
-    for obj, ans in zip(items, answers):
-        obj["answer"] = ans
-
+    # Run inference (saves incrementally after each batch)
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, indent=2)
+    run_batch_chat(gen, conversations, batch_size=batch_size,
+                   items=items, output_path=output_path)
 
 
 if __name__ == "__main__":

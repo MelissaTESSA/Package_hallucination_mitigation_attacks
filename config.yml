@@ -81,3 +81,23 @@ strategies:
     expert_model_name: null
     amateur_model_name: null
 
+  actlcd:
+    enabled: true
+    subdir: actlcd
+    max_new_tokens: 32                  # matches dola's max_new_tokens for comparability
+    actlcd_mature_layer: 32             # overridden per model via --actlcd-layer
+    actlcd_early_exit_layers: "4,8,16,24"  # overridden per model via --actlcd-early-exit-layers
+    actlcd_relative_top: 0.1
+    actlcd_repetition_penalty: 1.2
+    early_stop: true
+    # Policy options (optional — omit both for standard DoLa behaviour)
+    actlcd_policy_type: entropy         # "entropy" (no training) or "bcq" (trained RL policy)
+    actlcd_entropy_threshold: 1.0       # entropy gate threshold in nats (policy_type=entropy)
+    actlcd_policy_path: null            # path to a .pth BCQAgent checkpoint (policy_type=bcq)
+    actlcd_bc_threshold: 0.3            # BC probability threshold for BCQ action selection
+    quantization:
+      load_in_4bit: true
+      bnb_4bit_compute_dtype: bfloat16
+      bnb_4bit_use_double_quant: true
+      bnb_4bit_quant_type: nf4
+

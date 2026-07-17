@@ -44,7 +44,8 @@ def validate_response(response: List[str], package_list: List[str]) -> List[bool
         Returns:
             List[bool]: The validation results.
     """
-    return [package in package_list for package in response]
+    package_set = package_list if isinstance(package_list, set) else set(package_list)
+    return [package in package_set for package in response]
 
 def calculate_total_packages(response: List[str]) -> int:
     """

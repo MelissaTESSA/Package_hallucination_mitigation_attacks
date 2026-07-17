@@ -87,7 +87,9 @@ class DoLaGenerator(Generator):
         attention_mask = inputs["attention_mask"]
         prompt_lens = attention_mask.sum(dim=1).tolist()
 
-        mature_layer = int(self.config.get("dola_mature_layer", self.model.config.num_hidden_layers))
+        cfg = self.model.config
+        default_layers = getattr(cfg, "num_hidden_layers", None) or getattr(getattr(cfg, "text_config", None), "num_hidden_layers", 32)
+        mature_layer = int(self.config.get("dola_mature_layer", default_layers))
         base_layer = self.config.get("dola_base_layer")
         early_exit_layers_str = self.config.get("dola_early_exit_layers", "")
         early_exit_layers = (

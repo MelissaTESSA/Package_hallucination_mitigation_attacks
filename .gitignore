@@ -4,4 +4,4 @@
 .venv/
 .claude/
 output/logs/
-output/adversarial/
+data/rag/chroma_db/
